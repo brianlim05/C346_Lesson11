@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
         margin: 10,
         textAlign: 'left',
     },
-    opacityStyle: {
+    opacityStyle: { 
         borderWidth: 1,
     },
     headerText: {

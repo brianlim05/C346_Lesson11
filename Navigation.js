@@ -14,6 +14,6 @@ const Navigation = () => {
                 <Stack.Screen name="Edit" component={Edit} />
             </Stack.Navigator>
         </NavigationContainer>
-    );
+    );  
 }
 export default Navigation;
